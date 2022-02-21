@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/SS_Linkz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/NetflixMovies_sslinkz')
+        InlineKeyboardButton('Channel 📂', url='https://t.me/SS_Linkz'),
+        InlineKeyboardButton('Group 🎥', url ='https://t.me/NetflixMovies_sslinkz')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/NetflixMovies_sslinkz')
+        InlineKeyboardButton('Web Series 🎬', url='https://t.me/webseries_sslinkz')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
