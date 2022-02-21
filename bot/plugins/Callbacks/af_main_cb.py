@@ -119,7 +119,7 @@ async def cb_navg(bot, update: CallbackQuery):
                     [
                         InlineKeyboardButton
                             (
-                                f"⚜ Join Channel ⚜", url=https://t.me/ss_linkz
+                                f"⚜ {chat_name} ⚜", url=invite_link
                             )
                     ]
                 )
@@ -128,7 +128,7 @@ async def cb_navg(bot, update: CallbackQuery):
                 ibuttons[-1].append(
                     InlineKeyboardButton
                         (
-                            f"⚜ Join Channel ⚜", url=https://t.me/ss_linkz
+                            f"⚜ {chat_name} ⚜", url=invite_link
                         )
                 )
             
