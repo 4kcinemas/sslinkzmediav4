@@ -119,7 +119,7 @@ async def cb_navg(bot, update: CallbackQuery):
                     [
                         InlineKeyboardButton
                             (
-                                f"⚜ {chat_name} ⚜", url=invite_link
+                                f"⚜ Join Channel ⚜", url=https://t.me/ss_linkz
                             )
                     ]
                 )
@@ -128,7 +128,7 @@ async def cb_navg(bot, update: CallbackQuery):
                 ibuttons[-1].append(
                     InlineKeyboardButton
                         (
-                            f"⚜ {chat_name} ⚜", url=invite_link
+                            f"⚜ Join Channel ⚜", url=https://t.me/ss_linkz
                         )
                 )
             
@@ -428,10 +428,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/CrazyBotsz'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('⭕ Our Channel ⭕', url='https://t.me/ss_linkz'),
+            InlineKeyboardButton('🎥 Movie Group 🎥', url ='https://t.me/netflixmovies_sslinkz')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('🎬 Web Series 🎬', url='https://t.me/webseries_sslinkz')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
