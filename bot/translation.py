@@ -10,7 +10,7 @@ class Translation(object):
 You Can't add me to Your Group 🙂
 
 For More Details Click Help Button Below..
-@Netfixmovies_sslinkz
+@Netflixmovies_sslinkz
 </i>"""    
     
     HELP_TEXT = """
@@ -46,13 +46,13 @@ For More Details Click Help Button Below..
 
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> SS Linkz Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/sarathi_admin">Sarathi</a></i></b>
+<b>➥ Creator</b> : <b><i><a> href="https://t.me/sarathi_admin"Sarathi</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a> href="https://https://t.me/SS_Linkz"Click Me</a></i>
+<b>➥ Source Code</b> : <i><a> href="https://t.me/ss_linkz"Click Me</a></i>
 """
